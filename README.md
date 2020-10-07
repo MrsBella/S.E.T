@@ -1,7 +1,12 @@
-# J.D.M - Java Data Manager
+# S.E.T - Swift English Trainer
+
+## Description
+Application allows users to learn English language. There are many types of exercises in the program.
+It allows you to learn words or whole sentences.
 
 ## Changelog
 * **0.0.1** - first version
+* **0.1.0** - add cmd GUI
 
 ### Requirements
 * JDK 15
