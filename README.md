@@ -28,4 +28,3 @@ It allows you to learn words or whole sentences.
 
 ## Authors
 * Kamil Cecherz as [pangeon](https://github.com/pangeon)
-* Łukasz Bedarski as [Bedzik](https://github.com/Bedzik)
